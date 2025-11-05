@@ -1,0 +1,11 @@
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\bin\Debug\net8.0\NinjaCoders.Common.deps.json
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\bin\Debug\net8.0\NinjaCoders.Common.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\bin\Debug\net8.0\NinjaCoders.Common.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\obj\Debug\net8.0\NinjaCoders.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\obj\Debug\net8.0\NinjaCoders.Common.AssemblyInfoInputs.cache
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\obj\Debug\net8.0\NinjaCoders.Common.AssemblyInfo.cs
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\obj\Debug\net8.0\NinjaCoders.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\obj\Debug\net8.0\NinjaCoders.Common.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\obj\Debug\net8.0\refint\NinjaCoders.Common.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\obj\Debug\net8.0\NinjaCoders.Common.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Common\obj\Debug\net8.0\ref\NinjaCoders.Common.dll

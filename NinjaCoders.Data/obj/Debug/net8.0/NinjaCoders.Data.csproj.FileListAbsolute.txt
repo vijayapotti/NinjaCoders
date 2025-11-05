@@ -1,0 +1,17 @@
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\bin\Debug\net8.0\NinjaCoders.Data.deps.json
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\bin\Debug\net8.0\NinjaCoders.Data.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\bin\Debug\net8.0\NinjaCoders.Data.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\bin\Debug\net8.0\NinjaCoders.Common.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\bin\Debug\net8.0\NinjaCoders.Common.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCoders.Data.csproj.AssemblyReference.cache
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCoders.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCoders.Data.AssemblyInfoInputs.cache
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCoders.Data.AssemblyInfo.cs
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCoders.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCod.F45BA9C8.Up2Date
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCoders.Data.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\refint\NinjaCoders.Data.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCoders.Data.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\ref\NinjaCoders.Data.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\bin\Debug\net8.0\NinjaCoders.Data.runtimeconfig.json
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Data\obj\Debug\net8.0\NinjaCoders.Data.genruntimeconfig.cache

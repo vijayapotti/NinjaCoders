@@ -1,0 +1,17 @@
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\bin\Debug\net8.0\NinjaCoders.Repositories.deps.json
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\bin\Debug\net8.0\NinjaCoders.Repositories.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\bin\Debug\net8.0\NinjaCoders.Repositories.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\bin\Debug\net8.0\NinjaCoders.Common.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\bin\Debug\net8.0\NinjaCoders.Data.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\bin\Debug\net8.0\NinjaCoders.Common.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\bin\Debug\net8.0\NinjaCoders.Data.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\NinjaCoders.Repositories.csproj.AssemblyReference.cache
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\NinjaCoders.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\NinjaCoders.Repositories.AssemblyInfoInputs.cache
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\NinjaCoders.Repositories.AssemblyInfo.cs
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\NinjaCoders.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\NinjaCod.629316C8.Up2Date
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\NinjaCoders.Repositories.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\refint\NinjaCoders.Repositories.dll
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\NinjaCoders.Repositories.pdb
+C:\Users\Vijay\Workspace\NinjaCoders\NinjaCoders.Repositories\obj\Debug\net8.0\ref\NinjaCoders.Repositories.dll
