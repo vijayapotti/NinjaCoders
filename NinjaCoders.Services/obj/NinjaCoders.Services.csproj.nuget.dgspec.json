@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Services\\NinjaCoders.Services.csproj": {}
+    "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\NinjaCoders.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
+    "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj",
         "projectName": "NinjaCoders.Common",
-        "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj",
+        "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj",
         "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\obj\\",
+        "outputPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj": {
+    "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj",
         "projectName": "NinjaCoders.Data",
-        "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj",
+        "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj",
         "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Data\\obj\\",
+        "outputPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
-                "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj"
+              "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
+                "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj": {
+    "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj",
         "projectName": "NinjaCoders.Repositories",
-        "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj",
+        "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj",
         "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,11 +186,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
-                "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj"
+              "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
+                "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj"
               },
-              "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj": {
-                "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj"
+              "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj": {
+                "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj"
               }
             }
           }
@@ -230,14 +230,14 @@
         }
       }
     },
-    "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Services\\NinjaCoders.Services.csproj": {
+    "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\NinjaCoders.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Services\\NinjaCoders.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\NinjaCoders.Services.csproj",
         "projectName": "NinjaCoders.Services",
-        "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Services\\NinjaCoders.Services.csproj",
+        "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\NinjaCoders.Services.csproj",
         "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Services\\obj\\",
+        "outputPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -258,11 +258,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
-                "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj"
+              "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
+                "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj"
               },
-              "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj": {
-                "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj"
+              "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj"
               }
             }
           }

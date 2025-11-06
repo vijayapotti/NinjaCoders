@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {}
+    "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
+    "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj",
         "projectName": "NinjaCoders.Common",
-        "projectPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj",
+        "projectPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\NinjaCoders.Common.csproj",
         "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Common\\obj\\",
+        "outputPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

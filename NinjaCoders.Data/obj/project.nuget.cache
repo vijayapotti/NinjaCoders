@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+uI040fzzwA=",
+  "dgSpecHash": "iWvqFItxD0w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vijay\\Workspace\\temp\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj",
+  "projectFilePath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Data\\NinjaCoders.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vijay\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Vijay\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

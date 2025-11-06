@@ -9,6 +9,7 @@ using NinjaCoders.Common;
 
 namespace NinjaCoders.Data
 {
+    // Test comment for Git Change 
     public class AppDBContext : DbContext
     {
         //public AppDBContext(DbContextOptions options) : base(options)

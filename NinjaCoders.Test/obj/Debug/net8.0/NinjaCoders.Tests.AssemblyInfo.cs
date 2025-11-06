@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NinjaCoders.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0026e9df8a6cd845e8deaf5ca51bdae718e0ebdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("NinjaCoders.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NinjaCoders.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
