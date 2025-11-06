@@ -10,6 +10,7 @@ using NinjaCoders.Common;
 namespace NinjaCoders.Data
 {
     // Test comment for Git Change 
+    // Another comment for Confirmation
     public class AppDBContext : DbContext
     {
         //public AppDBContext(DbContextOptions options) : base(options)
