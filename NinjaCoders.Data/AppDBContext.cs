@@ -11,6 +11,7 @@ namespace NinjaCoders.Data
 {
     // Test comment for Git Change 
     // Another comment for Confirmation
+    // Three times is a charm
     public class AppDBContext : DbContext
     {
         //public AppDBContext(DbContextOptions options) : base(options)
