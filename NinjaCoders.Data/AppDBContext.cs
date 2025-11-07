@@ -14,17 +14,17 @@ namespace NinjaCoders.Data
     // Three times is a charm
     public class AppDBContext : DbContext
     {
-        //public AppDBContext(DbContextOptions options) : base(options)
-        //{
-        //}
+        public AppDBContext(DbContextOptions options) : base(options)
+        {
+        }
 
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server = (localdb)\\MSSQLLocalDB; Database = NinjaCoders; Trusted_Connection=True;TrustServerCertificate=True");
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer("Server = (localdb)\\MSSQLLocalDB; Database = NinjaCoders; Trusted_Connection=True;TrustServerCertificate=True");
 
-        }
+        //}
     }
 }

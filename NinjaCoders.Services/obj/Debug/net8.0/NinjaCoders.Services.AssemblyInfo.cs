@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NinjaCoders.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88f73b263cddeee4db71467fd9684c47a424cf61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d3f5a3955b59c5f3fca786ddfdefea594934f0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NinjaCoders.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NinjaCoders.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
