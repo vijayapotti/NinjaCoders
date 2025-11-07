@@ -28,7 +28,7 @@ namespace NinjaCoders.Services
             await _repository.AddAsync(entity);
         }
 
-        public async Task UpdateAsync(T entity)
+        public  void Update(T entity)
         {
             _repository.Update(entity);
         }

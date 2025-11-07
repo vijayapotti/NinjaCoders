@@ -28,7 +28,7 @@ namespace NinjaCoders.Repositories
             await _dbSet.AddAsync(entity);
         }
 
-        public void Update(T entity)
+        public  void Update(T entity)
         {
             _dbSet.Update(entity);
         }
