@@ -9,7 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDBContext>(
-    opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+    .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTrackingWithIdentityResolution));
 
 var app = builder.Build();
 

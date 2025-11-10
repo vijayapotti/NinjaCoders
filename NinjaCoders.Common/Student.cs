@@ -10,5 +10,7 @@ namespace NinjaCoders.Common
         public string LastName { get; set; } = string.Empty ;
         public bool IsActive  { get; set; }
 
+        public List<Course> Courses { get; set; } = new();
+      
     }
 }

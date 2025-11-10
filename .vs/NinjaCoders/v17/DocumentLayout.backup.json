@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1902A258-EEB2-4254-8EDC-3ADDFE212E32}|NinjaCoders.Web\\NinjaCoders.Web.csproj|c:\\users\\vijay\\workspace\\gitcode\\ninjacoders\\ninjacoders.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1902A258-EEB2-4254-8EDC-3ADDFE212E32}|NinjaCoders.Web\\NinjaCoders.Web.csproj|solutionrelative:ninjacoders.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE0C9DD-AD09-42C4-8621-53296BCEA40A}|NinjaCoders.Test\\NinjaCoders.Tests.csproj|c:\\users\\vijay\\workspace\\gitcode\\ninjacoders\\ninjacoders.test\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE0C9DD-AD09-42C4-8621-53296BCEA40A}|NinjaCoders.Test\\NinjaCoders.Tests.csproj|solutionrelative:ninjacoders.test\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A551330B-E9FF-4954-AA84-1359AFFB75CA}|NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj|c:\\users\\vijay\\workspace\\gitcode\\ninjacoders\\ninjacoders.repositories\\istudentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A551330B-E9FF-4954-AA84-1359AFFB75CA}|NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj|solutionrelative:ninjacoders.repositories\\istudentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47470FED-4BAF-4B25-937C-DCF914721F0B}|NinjaCoders.Common\\NinjaCoders.Common.csproj|c:\\users\\vijay\\workspace\\gitcode\\ninjacoders\\ninjacoders.common\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47470FED-4BAF-4B25-937C-DCF914721F0B}|NinjaCoders.Common\\NinjaCoders.Common.csproj|solutionrelative:ninjacoders.common\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073570AE-59A1-45C1-87F3-DFB0A4DF9480}|NinjaCoders.Services\\NinjaCoders.Services.csproj|c:\\users\\vijay\\workspace\\gitcode\\ninjacoders\\ninjacoders.services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073570AE-59A1-45C1-87F3-DFB0A4DF9480}|NinjaCoders.Services\\NinjaCoders.Services.csproj|solutionrelative:ninjacoders.services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073570AE-59A1-45C1-87F3-DFB0A4DF9480}|NinjaCoders.Services\\NinjaCoders.Services.csproj|c:\\users\\vijay\\workspace\\gitcode\\ninjacoders\\ninjacoders.services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073570AE-59A1-45C1-87F3-DFB0A4DF9480}|NinjaCoders.Services\\NinjaCoders.Services.csproj|solutionrelative:ninjacoders.services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A551330B-E9FF-4954-AA84-1359AFFB75CA}|NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj|c:\\users\\vijay\\workspace\\gitcode\\ninjacoders\\ninjacoders.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A551330B-E9FF-4954-AA84-1359AFFB75CA}|NinjaCoders.Repositories\\NinjaCoders.Repositories.csproj|solutionrelative:ninjacoders.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Test\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "NinjaCoders.Test\\StudentServiceTests.cs",
+              "ToolTip": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Test\\StudentServiceTests.cs",
+              "RelativeToolTip": "NinjaCoders.Test\\StudentServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:08:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\IStudentCourseRepository.cs",
+              "RelativeDocumentMoniker": "NinjaCoders.Repositories\\IStudentCourseRepository.cs",
+              "ToolTip": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\IStudentCourseRepository.cs",
+              "RelativeToolTip": "NinjaCoders.Repositories\\IStudentCourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:58:27.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "NinjaCoders.Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Repositories\\Repository.cs",
+              "RelativeToolTip": "NinjaCoders.Repositories\\Repository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:34:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "NinjaCoders.Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\StudentService.cs",
+              "RelativeToolTip": "NinjaCoders.Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:32:05.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "NinjaCoders.Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Services\\IStudentService.cs",
+              "RelativeToolTip": "NinjaCoders.Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:27:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\CourseStudent.cs",
+              "RelativeDocumentMoniker": "NinjaCoders.Common\\CourseStudent.cs",
+              "ToolTip": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Common\\CourseStudent.cs",
+              "RelativeToolTip": "NinjaCoders.Common\\CourseStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:18:15.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Web\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "NinjaCoders.Web\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Vijay\\Workspace\\GitCode\\NinjaCoders\\NinjaCoders.Web\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "NinjaCoders.Web\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:11:27.133Z",
+              "EditorCaption": ""
             }
           ]
         }
